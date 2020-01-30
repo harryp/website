@@ -5,25 +5,24 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Quantitative Ecology and Resource Management
+    institution: University of Washington
+    year: 2020
+  - course: MS in Quantitative Ecology and Resource Management
+    institution: University of Washington
+    year: 2014
+  - course: BSc in Applied and Computational Mathematical Sciences
+    institution: University of Washington, Seattle
     year: 2008
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Wildfire
+- Statistics
+name: Harry Podschwit
 organizations:
-- name: Stanford University
+- name: University of Washington
   url: ""
-role: Professor of Artificial Intelligence
+role: Phd. Candidate
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,6 +42,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Harry Podschwit is a Phd. candidate at the University of Washington. His research interests include statistics, climate change, wildfire, and model uncertainty. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
